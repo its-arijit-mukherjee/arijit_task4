@@ -11,15 +11,6 @@ A simple HTML/CSS webpage featuring a tranquil alpine landscape with a full-widt
 * Gradient button background transitioning from yellow to green.
 * Minimal styling with no external CSS framework or JavaScript.
 
-## Project Structure
-
-```text
-.
-├── index.html
-├── style.css
-└── README.md
-```
-
 ## How It Works
 
 ### `index.html`
@@ -51,5 +42,3 @@ The stylesheet:
 
 * **HTML5**
 * **CSS3**
-
-No JavaScript or external libraries are required by the provided files.
